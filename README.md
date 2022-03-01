@@ -1,3 +1,3 @@
 # Personal-Site
  
- This is my first personal site. I created it on my downtime after work and university.
+ This is my first personal site. It is currently a work in progress.
